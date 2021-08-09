@@ -1,0 +1,15 @@
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Debug\net5.0\console-sales.exe
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Debug\net5.0\console-sales.deps.json
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Debug\net5.0\console-sales.runtimeconfig.json
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Debug\net5.0\console-sales.runtimeconfig.dev.json
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Debug\net5.0\console-sales.dll
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Debug\net5.0\ref\console-sales.dll
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Debug\net5.0\console-sales.pdb
+C:\Users\lgapo\source\repos\console-sales\console-sales\obj\Debug\net5.0\console-sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgapo\source\repos\console-sales\console-sales\obj\Debug\net5.0\console-sales.AssemblyInfoInputs.cache
+C:\Users\lgapo\source\repos\console-sales\console-sales\obj\Debug\net5.0\console-sales.AssemblyInfo.cs
+C:\Users\lgapo\source\repos\console-sales\console-sales\obj\Debug\net5.0\console-sales.csproj.CoreCompileInputs.cache
+C:\Users\lgapo\source\repos\console-sales\console-sales\obj\Debug\net5.0\console-sales.dll
+C:\Users\lgapo\source\repos\console-sales\console-sales\obj\Debug\net5.0\ref\console-sales.dll
+C:\Users\lgapo\source\repos\console-sales\console-sales\obj\Debug\net5.0\console-sales.pdb
+C:\Users\lgapo\source\repos\console-sales\console-sales\obj\Debug\net5.0\console-sales.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Release\net5.0\publish\console-sales.exe
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Release\net5.0\publish\console-sales.dll
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Release\net5.0\publish\console-sales.deps.json
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Release\net5.0\publish\console-sales.runtimeconfig.json
+C:\Users\lgapo\source\repos\console-sales\console-sales\bin\Release\net5.0\publish\console-sales.pdb

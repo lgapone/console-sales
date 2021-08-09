@@ -1,0 +1,6 @@
+C:\Workspace\Publish\Sale\console-sales.pdb
+C:\Workspace\Publish\Sale\clrcompression.dll
+C:\Workspace\Publish\Sale\clrjit.dll
+C:\Workspace\Publish\Sale\coreclr.dll
+C:\Workspace\Publish\Sale\mscordaccore.dll
+C:\Workspace\Publish\Sale\console-sales.exe

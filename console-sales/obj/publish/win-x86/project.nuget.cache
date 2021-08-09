@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBPkLIQQMzUMpg3eGGnblVqzxtReLKrFW1aSbOnPaJ7fIIlnogg0ZvK6GVgHOog7YWUL9b00baYG3MzBeTRbzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lgapo\\source\\repos\\console-sales\\console-sales\\console-sales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lgapo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.7\\microsoft.netcore.app.runtime.win-x86.5.0.7.nupkg.sha512",
+    "C:\\Users\\lgapo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.7.nupkg.sha512",
+    "C:\\Users\\lgapo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.7\\microsoft.aspnetcore.app.runtime.win-x86.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
